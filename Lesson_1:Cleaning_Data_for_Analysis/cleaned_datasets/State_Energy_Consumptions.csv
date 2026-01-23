@@ -1,4 +1,4 @@
-"","State","Year","Total_Energy","NonRenewable_Energy","Perc_NonRenewable_Energy","Renewable_Energy","Perc_Renewable_Energy"
+"","State","Year","Total_Energy","NonRenewable_Energy","NonRenewable_Percent","Renewable_Energy","Renewable_Percent"
 "1","AK","1960",59303,54633,92,4670,8
 "2","AK","1961",70020,64860,93,5160,7
 "3","AK","1962",76642,71359,93,5283,7
