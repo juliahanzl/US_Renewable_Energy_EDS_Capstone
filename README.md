@@ -4,10 +4,10 @@ for the Yale University Environmental Data Science certificate
 ## Description
 Environmental Research Question:
 
-Does US federal support push forward the clean energy transition across the states?
-Does each US federal policy have the same influence for the creation of state clean energy laws?
+- Does US federal support push forward the clean energy transition across the states?
+- Does each US federal policy have the same influence for the creation of state clean energy laws?
 
-**Background**
+**Background** \
 The federal government in the United States sets a precedent for the states underneath them and their support for clean/renewable energy has been volatile for the past few decades with shifts in power.
 
 Individuals and/or businesses who would like to see the continuation of the clean energy transition within their communities may be feeling uncertain with the changes in the federal government.
@@ -22,9 +22,9 @@ In my research, I have found that 2 out of 3 federal acts were a significant sou
 - **Frequency**: Every time there was a law or incentive for alternative fuels (there are gaps in between years with no enacted date)
 
 ## File Organization
-📃git_push.ipynb (local repository to push new work to github)
-📂US_Renewable_Energy_EDS_Capstone (github remote repository)
-📃README.txt
+📃git_push.ipynb (local repository to push new work to github) \
+📂US_Renewable_Energy_EDS_Capstone (github remote repository) \
+📃README.txt (github remote repository) 
 - 📂`1.raw_data/` - original data 
 - - state_laws_and_incentives.csv
 - 📂`2.scripts/` - coding scripts (R for CoCalc, python for git use)
