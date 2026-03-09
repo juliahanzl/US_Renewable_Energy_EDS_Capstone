@@ -25,13 +25,13 @@ In my research, I have found that 2 out of 3 federal acts were a significant sou
 📃git_push.ipynb (local repository to push new work to github)
 📂US_Renewable_Energy_EDS_Capstone (github remote repository)
 📃README.txt
-	📂`1.raw_data/` - original data 
-state_laws_and_incentives.csv
-📂`2.scripts/` - coding scripts (R for CoCalc, python for git use)
-		📃Capstone-Project.ipynb
-	📂`3.outputs/` - result figures
-		📈descriptive_trendlines.png		
-📈trendline_results.png
+	- 📂`1.raw_data/` - original data 
+- - state_laws_and_incentives.csv
+- 📂`2.scripts/` - coding scripts (R for CoCalc, python for git use)
+- - 		📃Capstone-Project.ipynb
+- 	📂`3.outputs/` - result figures
+- - 		📈descriptive_trendlines.png		
+- - 📈trendline_results.png
 
 
 ## Requirements
