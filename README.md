@@ -14,7 +14,14 @@ Individuals and/or businesses who would like to see the continuation of the clea
 
 However, we can measure how influential federal energy laws are by comparing the amount of enacted state clean energy laws and regulations before and after the federal government energy laws are enacted.
 
-In my research, I have found that 2 out of 3 federal acts were a significant source for the creation of clean energy policies in the states which shows that the federal government does not always have an impact on every state energy decision.
+**Summary** \
+To determine how impactful a federal energy law is to the creation of state energy laws and regulations we planned to use a t-test to the significance of the federal energy law.
+
+After cleaning our dataset from the U.S. Department of Energy Alternative Fuels Center, we saw that the data was asymmetrical/not normally distributed by creating histograms of the individual state data and total yearly state data. 
+
+Then plots were made to show the trendlines for the individual state data and total yearly state data. The trendline for the yearly state totals showed the peak years of total enacted state energy laws and regulations and we chose the lowest point before that peak that correlated with a federal energy law to target our analysis on. 
+
+After our three targeted federal laws and their before and after state totals were analyzed I have found that 2 out of 3 federal acts were a significant source for the creation of clean energy policies in the states which shows that the federal government does not always have an impact on every state energy decision.
 
 ## Data Collection
 - **Period**: November 15th 1990 to August 11th 2022
@@ -23,7 +30,7 @@ In my research, I have found that 2 out of 3 federal acts were a significant sou
 
 ## File Organization
 📃git_push.ipynb (local repository to push new work to github) \
-📂US_Renewable_Energy_EDS_Capstone (github remote repository) \
+📂US_Renewable_Energy_EDS_Capstone (github remote repository on local device) \
 📃README.txt (github remote repository) 
 - 📂`1.raw_data/` - original data 
 - - state_laws_and_incentives.csv
