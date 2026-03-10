@@ -32,7 +32,7 @@ After our three targeted federal laws and their before and after state totals we
 📃git_push.ipynb (local repository to push new work to github) \
 📂US_Renewable_Energy_EDS_Capstone (github remote repository on local device) \
 📃README.txt (github remote repository) 
-- 📂`1.raw_data/` - original data 
+- 📂`1.raw_data/` - original data @ https://afdc.energy.gov/laws/state
 - - state_laws_and_incentives.csv
 - 📂`2.scripts/` - coding scripts (R for CoCalc, python for git use)
 - - 📃Capstone-Project.ipynb
