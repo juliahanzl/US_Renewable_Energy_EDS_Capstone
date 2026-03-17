@@ -2,7 +2,7 @@
 for the Yale University Environmental Data Science certificate
 
 ## Description
-Environmental Research Question:
+**Environmental Research Question:** 
 
 - Does US federal support push forward the clean energy transition across the states?
 - Does each US federal policy have the same influence for the creation of state clean energy laws?
